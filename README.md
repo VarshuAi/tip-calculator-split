@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Quick splitter adding tips and shares from aggregate bills.
+  name: tip-calculator-split version: 1.0 type: Repository author: VarshuAi description: >   Quick splitter adding tips and shares from aggregate bills. primary_tech: CSS
 primary_tech: CSS
 ```
 
